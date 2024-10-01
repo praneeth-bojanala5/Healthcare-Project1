@@ -124,7 +124,7 @@ celerybeat.pid
 # Environments
 hsolenv/
 .vscode/
-rnn tuning/
+rnn_tuning/
 .env
 .venv
 env/
